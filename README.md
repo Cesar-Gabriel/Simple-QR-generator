@@ -1,4 +1,4 @@
-Here's a suggested README for your repository:
+
 
 ```markdown
 # Simple QR Generator
